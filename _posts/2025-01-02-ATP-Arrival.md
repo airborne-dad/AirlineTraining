@@ -1,6 +1,6 @@
 ---
 title: The One Where I Begin My ATP-CTP Journey
-date: 2025-01-03
+date: 2025-01-02
 ---
 I’m writing this from a cozy (read: standard) hotel room near DFW, where I’m about to start my ATP-CTP course bright and early tomorrow. It’s surreal being here on my own, especially after saying goodbye to my family last night. I had to slip out of the house at 4 AM to catch my flight, and it really hit me that I won’t see them for a couple of weeks. My older daughter and I have always been incredibly close, and she was already crying when I said goodnight—then this morning, my wife texted that our daughter woke up, looked at the empty spot in bed, and said, “I waited too long to snuggle Daddy and now he’s gone.” Cue instant waterworks on my end. I had to fight back tears at TSA and seriously wondered, “Is this really what I want?” But deep down, I know it is. It’s just never easy to be away from the people you love.
 
