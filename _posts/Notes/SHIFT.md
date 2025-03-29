@@ -24,8 +24,8 @@
                   1. Runway heading for now  
                   2. Initial cleared alt.  
                iv. See page 3 for squawk code, then enter it  
-                  1. RADIO>5R XPDR1  
-         **4. Setup FD Pro  - may accomplish at any point
+                  1. RADIO>5R XPDR1
+    **4. Setup FD Pro  - may accomplish at any point
             a. Build route (use Import if applicable)  
             b. Compile charts (-7s, SID, STAR, -9s etc.)**
          5. Request T/O Data  
@@ -42,8 +42,8 @@
                i. Enter destination on the right and copy & paste it to the left to close the flight plan  
                ii. Start with 6L DEPARTURE, select runway & SID  
                iii. Set 6L DEP APP (3000 & 6)  
-               iv. Enter route  
-               v. Enter arrival, NAV>6R ARRIVAL, select arrival  
+               iv. Enter arrival, NAV>6R ARRIVAL, select arrival  
+               v.  Enter route
                vi. Verify route  
                vii. Activate (this will auto sequence PERF INIT on 6R)  
             b. PERF INIT  
