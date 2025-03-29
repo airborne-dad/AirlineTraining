@@ -1,0 +1,31 @@
+# Useful Skills/Tips
+
+1. Activate THEN NAVIGATE/EVALUATE  
+2. Do a quick flight deck check to make sure all required docs, manuals, and equipment are on board prior to sitting down.  
+3. Verify AFML – 14-day AW release, 2-day check, VOR check, and MEL/CDL items are impeding power on.  
+4. Master Caution or Warning, PF calls out Identify & Cancel, PM silences the warning, reads the EICAS msg, PF calls for QRH/QRC, PM reads and performs it.  
+5. Fuel quantity discrepancy below 300lbs is tolerable (between the PLN (ramp fuel indicated on the dispatch release) & OB (EICAS fuel onboard).  
+6. Safety & Power on checklist, then call crew briefing.  
+7. Use FD pro tabs (CO, TAXI, SID) to help with Departure Review (the Plan in TPC).  
+8. As we do the departure review, make sure things are setup correctly (heading, alt, speeds, fixes, etc.), also put in radio frequencies, ramp & ground on Comm 1, and tower & departure on Comm 2.  
+9. After second engine starting, FO change to the FLT synoptic page (CA stay on the status page) and be ready for the flight control test.  
+10. Pull up ACAHRS landing data on MCDU 2 and PERF Take Off on MCDU 1 to when transferring takeoff data. During After Start checklist, FO reads off ACAHRS, CA reads off the FPL for runway assignment, speed tape on PFD for speeds, and EICAS for Flex rating. Once done with TO data, select MAP on both MFDs.  
+11. When TO data is entered into PERF Take off and TRS, CA presses TOGA, verify ROLL, TO, FLEX X.  
+12. When FO is talking to the FAs, state “I’m off 1.”, as the cabin call line would isolate FO from all other channels. State “I’m back on 1.” upon return.  
+13. As we build the FPL, bug heading, initial altitude, and make sure to brief FMS NAV or HDG mode. Take advantage of the preview mode for engine out procs. or if there is a second turn on the SID that comes up quickly if we were to stay on HDG mode.  
+14. Make sure to insert DMEs if called for on the SID.  
+15. Tug/tow/wave triggers engine start.  
+16. Hold off on the taxi flow until both engines are on.  
+17. As FO begins to do their After Start flow, the CA states “Watch your feet” and does their rudder check; by the time that’s done, the FO will be ready to start their controls check, and they state “watch your knees”.  
+18. Unload the unnecessary things after the After Takeoff checklist, including the DMEs (ready for autotune), preview mode, etc.  
+19. When issued hold instructions, communicate 2 in and 2 out: FA, PX & ATC, Dispatch. Continue (or think about) communicating with them when entering the hold, established in the hold, and leaving the hold. Such as to ATC (prior to entering, request speed our discretion.), dispatch (where, alt, OB fuel, and EFC), etc.  
+20. Passing 10,000ft, monitor guard.  
+21. After landing, once slowed below 60kts, CA will state “my controls”.  
+22. Once clear the runway, CA calls for After Landing Checklist. This is the busiest time for the FO as they are performing the after landing flow and communicating with ATC for taxi instructions. Learn to manage: flow → comm → flow → comm. Then complete the checklist.  
+23. Once at the gate, start APU. DO NOT shut down engine before APU fully spools up AND the two-minute cool down period ends (a good indicator is the display of the red X on the vertical profile on the MFD).  
+24. Point/bearing/distance is used to connect the STAR with the approach. Based on the altitude we are at, reference the approach chart to determine which fix we are drawing the line from.
+
+---
+| **RAMP/FA/ATC**                                                                                                                        | **PM (CA)**                                                                                                                                                         | **PF (FO)**                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **(FA) Boarding completed**<br>**(RAMP) Doors closed**<br>**(RAMP) Disconnect GPU**<br>**(FA) Cabin secured for taxi**<br>**(FA) Cabin secured for TO** | **Crew briefing**<br>**Release briefing**<br>**Dep. Review – Threats**<br>**Call for APU start**<br>**Welcome aboard PA**<br>**Contact ramp (stby for push)**<br>**Ready for push (brakes off, steer off)**<br>**Tow/tug/wave**<br>**Engine 1 start**<br>**Taxi**<br>**Engine 2 start**<br>**APU off** | **Dark & Cold**<br>**Safety & Power On to power up the plane**<br>↓<br>**Now the plane is bright, call for crew briefing**<br>↓<br>**Originating/Receiving Flow & Checklist**<br>(NAV IDENT → POS INIT → RTE → CB)<br>↓<br>**To the Line Flow**<br>↓<br>**Call release briefing**<br>↓<br>**Departure review**<br>(What type threats do you see?) → Identify PF threats → Plan → Considerations<br>↓<br>**To the Line Checklist**<br>↓<br>**APU start**<br>↓<br>**Below the Line Flow**<br>↓<br>**Close door**<br>↓<br>**Contact push** (ramp, CTAF, ground, etc.)<br>↓<br>**T/O data received**<br>↓<br>**Engine start**<br>↓<br>**Obtain taxi instructions**<br>↓<br>**Taxi brief**<br>↓<br>**Engine start**<br>↓<br>**APU off**<br>↓<br>**T/O Flow & Checklist**<br>↓ |
