@@ -1,6 +1,9 @@
 ---
 Jumpseat notes
 ---
+
+⸻
+
 General
 	•	Always bring the essentials: certificate, medical, and ID
 	•	United: Super easy to list right in their app.
