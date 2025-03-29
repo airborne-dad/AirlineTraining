@@ -42,7 +42,5 @@ General
 	•	But if you’re flying with a low-time captain or expecting turbulence, autopilot can save a lot of mental bandwidth.
 	•	The captain hand-flew from about 2,000 feet all the way down, using PAPI and basically treating it like a single-engine piston. He advises not to get overly reliant on the flight. Don't get in the habit of doing that from the get-go.
 	•	CA called ground for help since ground has all the resources and knows the local drill—especially at Indy.
-	•	The ACARS message about your arrival gate also shows estimated turn times.	If it’s a really short turnaround (like 50 minutes), you can sometimes wait on your post-flight walk-around. The new crew will likely show up soon and can knock out the preflight inspection for you—particularly nice in bad weather.
-	•	On both flights, the FO (as PM) had to make the descent announcement and the “FA, prepare for landing” call.
-	•	Per SOP, those are two separate calls, although some people combine them in practice.
-	•	On his LOE, they were pretty particular about the timing: about 30 miles before TOD so passengers have a heads-up before the seatbelt sign comes on. The captain said to consult the Customer Service Guide and get comfortable with those PAs.
+	•	The ACARS message about your arrival gate also shows estimated turn times. If it’s a really short turnaround (like 50 minutes), you can sometimes wait on your post-flight walk-around. The new crew will likely show up soon and can knock out the preflight inspection for you—particularly nice in bad weather.
+	•	On both flights, the FO (as PM) had to make the descent announcement and the “FA, prepare for landing” call. Per SOP, those are two separate calls, although some people combine them in practice. He did it about 10-15 minutes prior to reaching TOD, so passengers had a heads-up before the seatbelt sign came on. The captain said to consult the Customer Service Guide and get comfortable with those PAs.
