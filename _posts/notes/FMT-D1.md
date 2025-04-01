@@ -28,7 +28,7 @@
 
 ## 6. Landing Stall Recovery
 - On "Recover", PF calls for **Flaps 2 or 4**.
-- PM: “Positive Rate” → PF: **"Gear Up"**.
+- PM: “Positive Rate” → PF: **"Gear Up"**. Then PM will set HDG and FLCH 210.
 - Proceed with level-off and recovery.
 
 ## 7. RA (Resolution Advisory)
@@ -39,6 +39,7 @@
   - After: “Brickyard XXXX, conflict resolved.”
 
 ## 8. ILS CAT I
+- Turn on the center taxi light when cleared for the approach and the center landing light when cleared to land.
 - Configure up to **Flaps 2** before GS capture.
 - Once GS captured: **Flaps 3 and Gear Down**.
 - PM presses the **ATTND button** for FA notification.
