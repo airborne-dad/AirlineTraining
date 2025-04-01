@@ -8,7 +8,7 @@
 
 ## 2. Climbing Turn
 - Choose vertical mode based on performance needs:
-  - **FLCH**: Use TOGA power, level off at ASEL, reduce thrust referencing speed trend.
+  - **FLCH**: Use TOGA power, level off at ASEL, and reduce thrust referencing speed trend.
   - **VS/FPA**: Adjust thrust as needed — these are **SPDt** modes.
 - Understand how FD behavior changes by mode. Do not over-use the throttle. Set what you want and see what happens.
 
