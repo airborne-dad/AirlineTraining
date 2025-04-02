@@ -1,4 +1,4 @@
-# FMT 1 - Training Notes
+# FMT 1 Notes
 
 ## 1. Normal Takeoff
 - On rotation, avoid aggressively pitching up. Find a **~3° per second** cadence to align with **TOGA reference lines**.
