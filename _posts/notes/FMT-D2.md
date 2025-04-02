@@ -1,4 +1,4 @@
-# ✈️ FMT 2 Notes
+# FMT 2 Notes
 
 ## 🛬 ILS CAT II
 - Ensure both sides are set to **RA minimums**.
