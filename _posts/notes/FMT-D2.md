@@ -64,11 +64,11 @@
 ## 🚨 PRM Breakouts
 
 ### Climb Breakout (TOGA):
-- PF: 'Breakout, TOGA.'
+- PF: `Breakout, TOGA.`
 - PM: Set HDG and FLCH 210
-- PF: Level off on assigned heading → 'Flaps 2'
-- PM: 'Positive rate.'
-- PM: 'Gear Up → Flaps 1 → Flaps Up → After TO checklist'
+- PF: Level off on assigned heading → `Flaps 2`
+- PM: `Positive rate.`
+- PM: `Gear Up → Flaps 1 → Flaps Up → After TO checklist`
 
 ### Descend Breakout:
 - Compliant once on assigned heading.
