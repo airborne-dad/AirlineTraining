@@ -52,7 +52,7 @@
 2. GS passing top dot → **Flaps 2**, **170 kts**
 3. GS capture → **Flaps 3, Gear down**
 4. Power: **~65% N1**
-5. Flaps 5 → Vapp → Landing checklist
+5. Flaps 5 → Vapp (thrust lever to maintain Vapp) → Landing checklist
 
 ## 🛬 Single Engine Landing
 - Expect **excess thrust** and speed.
