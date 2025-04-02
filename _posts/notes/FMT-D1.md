@@ -42,6 +42,7 @@
 - Turn on the center taxi light when cleared for the approach and the center landing light when cleared to land.
 - Configure up to **Flaps 2** before GS capture.
 - Once GS captured: **Flaps 3 and Gear Down**.
+- Get fully configured, **Flaps 5, Speed Vapp, Landing Checklist**, prior to FAF (doesn't have to be too much before it).
 - PM presses the **ATTND button** for FA notification.
 
 ## 9. ILS CAT I with AP FAIL
