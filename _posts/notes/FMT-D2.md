@@ -35,17 +35,17 @@
 ## 💥 V1 Cut
 1. Keep visual ref, align or stay parallel to centerline.
 2. Count to **3** before rotating. Buy time to stabilize.
-3. Rotate **smoothly and intentionally**. Stop at 10 degrees nose pitch and wait for V2 line to reschedule.
-4. Apply more **rudder** airborne due to loss of ground friction.
+3. Rotate **smoothly and intentionally**. Pause at 10 degrees nose pitch and wait for V2 line to reschedule.
+4. Apply more **rudder** as rotating due to loss of ground friction.
 5. **SCAN**:
    - Black square (nose)
    - TOGA bars (V2)
    - Heading bug (within the edges of the bug)
    - Turn coordinator (brick)
 6. Lock in rudder pressure, ONLY use small adjustments.
-7. Use ailerons to level the wings.
+7. Use ailerons to level the wings, small tweaks.
 8. Maintain standard **callouts**.
-9. Once stable at safe altitude, **Autopilot ON**.
+9. 1000ft, **Autopilot ON**.
 
 ## 🛬 Single Engine Approach (Dry Method) (Use the bottom tip of the diamond)
 1. GS top dot → **Flaps 1**, **190 kts**
