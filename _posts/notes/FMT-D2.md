@@ -48,12 +48,11 @@
 9. Once stable at safe altitude, **Autopilot ON**.
 
 ## 🛬 Single Engine Approach (Dry Method)
-1. GS alive → **Flaps 1**
-2. GS 2nd dot → **190 kts**, Flaps 2
-3. GS 1st dot → **170 kts**
-4. GS capture → **Flaps 3, Gear down**
-5. Power: **~65% N1**
-6. Flaps 5 → Vapp → Landing checklist
+1. GS top dot → **Flaps 1**, **190 kts**.
+2. GS passing top dot → **Flaps 2**, **170 kts**.
+3. GS capture → **Flaps 3, Gear down**
+4. Power: **~65% N1**
+5. Flaps 5 → Vapp → Landing checklist
 
 ## 🛬 Single Engine Landing
 - Expect **excess thrust** and speed.
