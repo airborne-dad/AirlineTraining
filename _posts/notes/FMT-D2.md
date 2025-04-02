@@ -48,8 +48,8 @@
 9. Once stable at safe altitude, **Autopilot ON**.
 
 ## 🛬 Single Engine Approach (Dry Method)
-1. GS top dot → **Flaps 1**, **190 kts**.
-2. GS passing top dot → **Flaps 2**, **170 kts**.
+1. GS top dot → **Flaps 1**, **190 kts**
+2. GS passing top dot → **Flaps 2**, **170 kts**
 3. GS capture → **Flaps 3, Gear down**
 4. Power: **~65% N1**
 5. Flaps 5 → Vapp → Landing checklist
