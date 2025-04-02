@@ -56,7 +56,7 @@
 
 ## 🛬 Single Engine Landing
 - Expect **excess thrust** and speed.
-- Power to idle at **100 ft**.
+- Power to idle at **50 ft**.
 - Fly a **normal profile**.
 - Only one **reverser**—plan rollout accordingly.
 
