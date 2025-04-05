@@ -28,3 +28,13 @@
 - Use the tempo of EGPWS callouts to time the final flare.
 - DO NOT FLOAT.
 - Prioritize **centerline alignment**, then apply **reversers**.
+
+## 🛑 Rejected Takeoff (RTO)
+- **Either pilot** may call "REJECT."
+- **Captain takes control** and initiates the reject.
+- Focus on **stabilizing the aircraft first**, then apply brakes—ample runway exists to do so safely.
+- FO makes appropriate callouts:
+  - **To ATC**:  
+    `"Tower, Brickyard xxx, rejected takeoff on Runway xx."`
+  - **PA Announcement**:  
+    `"Ladies and gentlemen, we have rejected our takeoff. Please remain seated with your seatbelts fastened. Follow the instructions of the uniformed flight attendants and standby for further instructions."`
