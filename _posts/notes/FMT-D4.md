@@ -17,3 +17,14 @@
 - Alternatively:
   - Use **FMS navigation** if applicable.
   - Or fly **visual** if operating in **VMC**.
+
+## 🛬 No Flaps Landing
+- Stay **on the Flight Director**—follow it precisely.
+- If **SINKRATE** warning is triggered, say correcting.
+- Go around if it cannot be corrected or warning is triggered repeatedly.
+- Trim the aircraft well to minimize pitch oscillation.
+- At **100 ft AGL**, bring **thrust levers to idle**.
+- Apply **slight back pressure** to slow down descent rate.
+- Use the tempo of EGPWS callouts to time the final flare.
+- DO NOT FLOAT.
+- Prioritize **centerline alignment**, then apply **reversers**.
