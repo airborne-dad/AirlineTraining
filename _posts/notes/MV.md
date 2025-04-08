@@ -1,6 +1,6 @@
 # ✈ Maneuvers Validation Notes
 
-## 🧠 General Overview
+## General Overview
 - **Focus:** Only the **maneuvers** are being tested.
 - **Flight Plan & Setup:** Done **for you**—no need to touch MCDU or guidance panel unless you want to. Don't hesitate to delegate. (Checked with the examiner just to confirm and he said per the SOP, you don't have to do the guidance panel at all if you don't want to do it, just that if the AP isn't on, you definitely want to delegate.) I did the guidance panel and preview setup (ILS)just because I'm used to it. 
 - We got KATL runway 9R for everything (9L for rejected t/os). But really no need to look at the plates. Don't really need them tbh. Don't let any expectation bias creep in.
