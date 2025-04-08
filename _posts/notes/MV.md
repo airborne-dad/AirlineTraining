@@ -26,7 +26,7 @@
 ### 2. ILS CAT II Approach
 - You’ll be vectored for setup—**brief and review** the approach.
 - The **SPC brief** is already done during the initial briefing in the briefing room, so it's considered done here.
-- Captain will program MCDU and begin TPC briefing with their threats, then your threats, then they will brief the approach.
+- CA will program MCDU and begin TPC briefing with their threats, then your threats, then they will brief the approach.
 - Remember to set **RA mins**.
 - You will call descent checklist and the examiner will say that's completed.
 - **Autopilot + Autothrottle** will stay on for this.
@@ -43,7 +43,7 @@
   - Autothrottle stays ON
 - Hand fly down to **50 ft**, then **Go-Around** on examiner's call.
   - **Listen closely** for go-around instructions (Runway HDG vs FMS NAV).
-  - Clarify with Captain if needed.
+  - Clarify with CA if needed.
 
 ---
 
@@ -53,9 +53,9 @@
 - Call for flaps 1 before slowing down so green dot reschedules.
 - **Flap Fail** EICAS triggers:
   - Identify and cancel.
-  - Ask Captain to request **210 kts**.
+  - Ask CA to request **210 kts**.
   - Call for **QRH Flap Fail**.
-  - Captain will quickly go through it and consider it done.
+  - CA will quickly go through it and consider it done.
 - Vectored back for RNAV:
   - Autopilot OFF at FAF.
   - Autothrottle ON.
