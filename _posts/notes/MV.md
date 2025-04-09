@@ -58,7 +58,7 @@
   - CA will quickly go through it and consider it done.
 - Vectored back for RNAV:
   - Autopilot OFF at FAF.
-  - Autothrottle ON.
+  - Autothrottle OFF per the Flap Fail landing checklist.
 - Full stop landing—use **No Flap Landing Technique**.
 
 ---
