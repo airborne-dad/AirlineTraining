@@ -122,9 +122,9 @@ The LOE overall is a very fast-paced flight. On the debrief, the CA said he esse
 - Don’t over-delegate—trust your training.
 - Validate weather and approach suitability yourself.
 - Maintain composure under pressure—especially during go-arounds.
-- Use CRM effectively; good job collaborating with the captain.
+- Use CRM effectively; work with the captain.
 - Finish strong—flows and post-flight comms were solid.
 
 ---
 
-> “Fly the plane, brief the threats, trust your tools, and breathe.”
+> “Fly the plane, brief the threats, trust your tools (don't trust AP too much), and breathe.”
